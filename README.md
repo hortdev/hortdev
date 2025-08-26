@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://hort.vercel.app/](https://hort.vercel.app/)
 
-- 💬 Ask me about **WEB , MERN**
-
 - 📫 How to reach me **hort.webdev@gmail.com**
 
 - ⚡ Fun fact **I love debugging just as much as building – finding bugs feels like solving a mystery!**
